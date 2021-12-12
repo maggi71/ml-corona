@@ -4,7 +4,11 @@
 Ziel ist es mit Machine Learning (ML) und Deep Learning (DL) eine Vorhersage über die zukünftigen Covid Fallzahlen vorherzusagen.
 
 ## Arbeitsaufteilung
-?? Vorschlag Marco: Marco ML, Jonas DL
+Marco Daten zusammensammeln in eine CSV Datei
+Jonas: Daten Analyse und Bereinigung
+? : Preparierne der Daten
+Modelle : 
+
 
 Datenaufbereitung gemeinsam
 
@@ -26,6 +30,7 @@ Deep Learning wird bei unstrucktuierten Daten verwendet.
 ## Erkenntnisse
 
 ## Persönliche Erfahrungen
+Roh-Daten Analyse ist sehr wichig, Daten müssen von beiden gleich verstanden werden und beide müssen das gleiche Verständnis dafür haben.
 
 ## Empfehlung seitens Bund
 Öffentliches ML oder DL Modell für jeden einsehbar und nachvollziehbar für Versierte. Modell kann auch jeder bei sich zu Hause ausführen. 
