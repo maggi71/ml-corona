@@ -1,8 +1,3 @@
-
-|Daten|Rohdaten CSV|Spalten die interessieren|
-
-|1|2|3|
-
 | Daten             |           Rohdaten CSV            |              Spalten die interessieren |
 |-------------------|:---------------------------------:|---------------------------------------:|
 | Cases             |    COVID19Cases_geoRegion.csv     |                                entries |
