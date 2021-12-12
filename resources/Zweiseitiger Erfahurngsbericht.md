@@ -30,7 +30,7 @@ Deep Learning wird bei unstrucktuierten Daten verwendet.
 ## Erkenntnisse
 
 ## Persönliche Erfahrungen
-Roh-Daten Analyse ist sehr wichig, Daten müssen von beiden gleich verstanden werden und beide müssen das gleiche Verständnis dafür haben.
+Roh-Daten Analyse ist sehr wichig, Daten müssen von beiden gleich verstanden werden und beide müssen das gleiche Verständnis dafür haben. Dank genauer Datendefinitionen wie https://www.covid19.admin.ch/api/data/documentation/models/sources-definitions-hospcapacitydailyincomingdata.md ist es gut nachvollziehbar was in den Daten vorhanden ist.
 
 ## Empfehlung seitens Bund
 Öffentliches ML oder DL Modell für jeden einsehbar und nachvollziehbar für Versierte. Modell kann auch jeder bei sich zu Hause ausführen. 
