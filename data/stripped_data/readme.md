@@ -15,9 +15,8 @@ Download der Rohdaten unter https://www.covid19.admin.ch/de/hosp-capacity/icu, z
 |certificate_recovered| Issued COVID certificates for persons that have recovered from COVID-19.|COVID19Certificates.csv|        type_variant ||
 |certificate_tested|Issued COVID certificates for persons with a negative test result.|COVID19Certificates.csv|        type_variant ||
 |certificate_vacinated| Issued COVID certificates for vaccinated persons.|COVID19Certificates.csv|        type_variant ||
-|hospitalisation|Absolute number of occurrences for this day.|COVID19Hosp_geoRegion.csv|        entries ||
-|hosp_capacity_icu_covid|Absolute number of ICU beds in use by COVID-19 patients.|COVID19HospCapacity_geoRegion|        ICU_Covid19Patients |type_variant=nfp Reported date is only valid for the current day, no forward propagation is done. Each record reflects the data reported for that specific day.|
-|hosp_capacity_total_covid |Absolute number of beds in use by COVID-19 patients.|COVID19HospCapacity_geoRegion|        Total_Covid19Patients |type_variant=nfp Reported date is only valid for the current day, no forward propagation is done. Each record reflects the data reported for that specific day.|
+|hosp_total_icu_covid|Absolute number of ICU beds in use by COVID-19 patients.|COVID19HospCapacity_geoRegion|        ICU_Covid19Patients |type_variant=nfp Reported date is only valid for the current day, no forward propagation is done. Each record reflects the data reported for that specific day.|
+|hosp_total_covid |Absolute number of beds in use by COVID-19 patients.|COVID19HospCapacity_geoRegion|        Total_Covid19Patients |type_variant=nfp Reported date is only valid for the current day, no forward propagation is done. Each record reflects the data reported for that specific day.|
 |death|Absolute number of occurrences for this iso-week.|COVID19Death_geoRegion.|        entries ||
 
 

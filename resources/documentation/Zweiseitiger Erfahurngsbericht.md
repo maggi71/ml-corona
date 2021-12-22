@@ -14,6 +14,12 @@ Datenaufbereitung gemeinsam
 
 Gegenseitiges Review und austesten, verbessern
 
+# Methodik
+Zuerst mit Google Colab, dann mit Anakonda. Zuletzt gute Erfahrung mit Code Bearbeitung in Visual Studio Code und Remote Anaconda Server.
+Für die gemeinsame Datenablage haben wir uns für eine Github Projekt entschieden. 
+
+Problem: Jupyter Notebook Änderungen im Git sind nicht sehr gut nachvollziehbar. Es wird nicht nur der Phyton Code eingecheckt sondern auch die zueletzt ausgeführten Daten.
+
 # Einführung in Machine Learing und Deep Learning
 Machine Learning wird bei strucktuierten Daten verwendet.
 
