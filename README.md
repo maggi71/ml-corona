@@ -1,6 +1,8 @@
-# KI Arbeit über Corona
+# Machine Learning Innovationsprojekt
 
-**Author : Jonas Furrer, Marco Amrein**
+## Anwendung und Vergleich von Machine Learning und Deep Learning Algorithmen zur Vorhersage von COVID-19 Kennzahlen 
 
-**Schule : HSLU CAS KI**
+**Autoren : Jonas Furrer, Marco Amrein**
+
+**Schule : HSLU CAS Artificial Intelligence 2021/2022**
 
